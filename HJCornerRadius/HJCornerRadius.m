@@ -77,6 +77,11 @@
     }
 }
 
+/*  modify by kevin
+ *  @description 
+ *      之前图片绘制是在main线程中进行的，现在改成在 子线程进行，使得程序运行流畅
+ */
+
 - (void)updateImageView {
     self.originImage = self.originImageView.image;
     if (!self.originImage) {
