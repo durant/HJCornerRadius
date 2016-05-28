@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F053BFF6FAC1781CDB3425494366B9A91BC9741",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8F053BFF6FAC1781CDB3425494366B9A91BC9741" : 0,
+    "4D0A646059F303FD6BDBD14BB334CE0728AA0960" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F90C623-47DC-4717-91F0-FA61B5FEF308",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8F053BFF6FAC1781CDB3425494366B9A91BC9741" : "HJCornerRadius\/",
+    "4D0A646059F303FD6BDBD14BB334CE0728AA0960" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HJImageViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HJImageViewDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:durant\/StringExt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D0A646059F303FD6BDBD14BB334CE0728AA0960"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:durant\/HJCornerRadius.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F053BFF6FAC1781CDB3425494366B9A91BC9741"
+    }
+  ]
+}
